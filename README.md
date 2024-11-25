@@ -565,3 +565,129 @@ Steps to design an effective questionnaire:
 3. **Include Relevant Questions:** Align with research goals.
 4. **Pilot Testing:** Validate with a small group before full deployment.
 
+Here are the answers for the remaining questions with detailed explanations, examples, and reliable references:
+
+---
+
+### **26. Explain the Following Terms:**
+
+1. **Open-Ended Question:**
+   - **Definition:** Questions that allow respondents to answer freely without restrictions.
+   - **Example:** "What do you think about our new product?"
+   - **Advantages:** Encourages detailed and personalized responses.
+   - **Limitations:** Difficult to analyze and quantify.
+
+2. **Multiple-Choice Question:**
+   - **Definition:** Respondents choose one or more answers from given options.
+   - **Example:** "Which feature do you value the most? (a) Price (b) Quality (c) Design."
+   - **Advantages:** Easy to analyze and compare.
+   - **Limitations:** Restricts respondents to predefined choices.
+
+3. **Dichotomous Question:**
+   - **Definition:** Questions with only two possible answers.
+   - **Example:** "Do you use social media? (Yes/No)."
+   - **Advantages:** Simple to administer and analyze.
+   - **Limitations:** Lacks depth and nuance in responses.
+
+*Reliable Reference:* [Survey Question Types](https://www.qualtrics.com/blog/questionnaire-design/)
+
+---
+
+### **27. What is the Difference Between a Sample and a Population?**
+
+1. **Sample:**
+   - A subset of the population selected for the study.
+   - **Example:** Surveying 500 students from a university with 5,000 students.
+   - **Advantages:** Cost-effective and manageable.
+
+2. **Population:**
+   - The entire group under study.
+   - **Example:** All students enrolled at the university.
+   - **Advantages:** Provides complete and accurate results, though often impractical.
+
+**Key Difference:**
+- A **population** represents the whole, while a **sample** is a part of it.
+
+*Reliable Reference:* [Sample vs. Population](https://www.statisticshowto.com/probability-and-statistics/population-and-sample/)
+
+---
+
+### **28. How Are Mean and Median Related in a Normal Distribution?**
+
+1. **Mean:**
+   - The arithmetic average of all values.
+   - **Example:** For the data [10, 15, 20], the mean is (10 + 15 + 20)/3 = 15.
+
+2. **Median:**
+   - The middle value in a sorted dataset.
+   - **Example:** In [10, 15, 20], the median is 15.
+
+**Relationship:**
+- In a normal distribution, the **mean** and **median** are equal because the data is symmetrically distributed around the central point.
+
+*Reliable Reference:* [Normal Distribution Explained](https://www.investopedia.com/terms/n/normaldistribution.asp)
+
+---
+
+### **29. Explain Frequency Distribution and Cumulative Frequency Distribution**
+
+1. **Frequency Distribution:**
+   - **Definition:** Shows how often each value in a dataset occurs.
+   - **Example:**
+     - Data: [1, 2, 2, 3, 3, 3]
+     - Frequency: 1 occurs once, 2 occurs twice, 3 occurs three times.
+
+2. **Cumulative Frequency Distribution:**
+   - **Definition:** The running total of frequencies up to a certain value.
+   - **Example:**
+     - Data: [1, 2, 2, 3, 3, 3]
+     - Cumulative Frequency: 1 (1), 2 (3), 3 (6).
+
+**Difference:**
+- Frequency distribution shows individual counts, while cumulative frequency shows the progressive total.
+
+*Reliable Reference:* [Frequency Distribution Analysis](https://statisticsbyjim.com/)
+
+---
+
+### **30. What is Measure of Central Tendency and Dispersion?**
+
+1. **Central Tendency:**
+   - **Definition:** Indicates the central point of a dataset.
+   - **Types:**
+     - **Mean:** Average value.
+     - **Median:** Middle value.
+     - **Mode:** Most frequent value.
+   - **Example:** For [10, 20, 20, 30], the mean is 20, median is 20, and mode is 20.
+
+2. **Dispersion:**
+   - **Definition:** Shows the spread of data around the central tendency.
+   - **Measures:**
+     - **Range:** Difference between the highest and lowest value.
+     - **Variance:** Average squared deviation from the mean.
+     - **Standard Deviation:** Square root of variance.
+   - **Example:** For [10, 20, 30], the range is 30-10=20.
+
+*Reliable Reference:* [Tendency vs. Dispersion](https://www.statisticssolutions.com/)
+
+---
+
+### **31. What is Hypothesis Testing? How is Statistical Significance Determined?**
+
+1. **Hypothesis Testing:**
+   - **Definition:** A method to test assumptions or claims about a population using sample data.
+   - **Steps:**
+     1. Formulate null (H₀) and alternative hypotheses (H₁).
+        - **Example:** H₀: A new drug has no effect; H₁: The drug improves health.
+     2. Select a significance level (commonly 0.05).
+     3. Perform the test and calculate the p-value.
+
+2. **Statistical Significance:**
+   - **Definition:** Indicates whether results are likely due to chance.
+   - **Determination:**
+     - If p-value < significance level (0.05), reject H₀ (results are significant).
+   - **Example:** Testing whether a training program significantly improves employee performance.
+
+*Reliable Reference:* [Introduction to Hypothesis Testing](https://www.scribbr.com/statistics/hypothesis-testing/)
+
+
